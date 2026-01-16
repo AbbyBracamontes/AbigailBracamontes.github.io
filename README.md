@@ -1,2 +1,3 @@
 # AbigailBracamontes.github.io
-A Webpage about Abigail Bracamontes for CSC3360
+title: About Me Homepage
+description: A Webpage about Abigail Bracamontes for CSC3360
